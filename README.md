@@ -1,4 +1,4 @@
-# Desafio BI - Dashboard de Compras no Setor de Construção Civil
+# Dashboard de Compras no Setor de Construção Civil
 
 Este repositório contém um projeto de análise de dados desenvolvido para uma empresa do setor de **construção civil**, focado na área de compras de materiais. A empresa está buscando implementar uma cultura de **data-driven** e forneceu uma base de dados com cerca de 6 mil registros de compras, abrangendo o período de 2017 a 2020.
 
